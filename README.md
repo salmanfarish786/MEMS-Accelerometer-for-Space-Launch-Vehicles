@@ -1,7 +1,7 @@
 # 🚀 MEMS Accelerometer for Space Launch Vehicles
 
 ## 📌 Overview
-The **MEMS Accelerometer for Space Launch Vehicles** is a compact and high-precision acceleration sensing system designed for aerospace applications. It measures acceleration forces during rocket launch and flight, providing critical data for navigation, guidance, stability control, and performance analysis.
+The **MEMS Accelerometer for Space Launch Vehicles** is a compact and high-precision acceleration sensing system designed for aerospace applications. It measures acceleration forces during rocket launch and flight, providing critical data for navigation, guidance, stability control and performance analysis.
 
 ## 🎯 Objectives
 - Measure acceleration during launch and flight
@@ -18,13 +18,6 @@ The **MEMS Accelerometer for Space Launch Vehicles** is a compact and high-preci
 - Lightweight and reliable
 - Suitable for aerospace applications
 
-## 🛠️ Components Used
-- MEMS Accelerometer Sensor
-- Microcontroller (Arduino/ESP32/STM32)
-- Power Supply
-- Communication Module
-- PCB Board
-- Connecting Wires
 
 ## ⚙️ Working Principle
 1. The MEMS accelerometer detects acceleration forces acting on the launch vehicle.
@@ -53,6 +46,7 @@ The **MEMS Accelerometer for Space Launch Vehicles** is a compact and high-preci
 - Embedded Systems
 - Sensor Data Processing
 - Aerospace Instrumentation
+- Comsol Tool
 
 ## 👨‍💻 Author
 **Mohamed Salman Al Farish A**
